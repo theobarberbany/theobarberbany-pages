@@ -1,0 +1,35 @@
+baseurl = "https://theobarberbany.github.io"
+languageCode = "en"
+title = "Theo's Blog"
+theme = "charaka-hugo-theme"
+copyright = "&copy; <a href=\"https://github.com/theobarberbany\">Theo Barber-Bany</a> 2020"
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[author]
+  name = "Theo Barber-Bany"
+  homepage = "https://theobarberbany.github.io"
+
+[params.highlight]
+  style = "zenburn"
+
+[params.share]
+  enabled = "true"
+
+[[params.social]]
+  url = "about"
+  fa_icon = "fas fa-info"
+
+[[params.social]]
+  url = "https://github.com/theobarberbany/"
+  fa_icon = "fab fa-github"
+
+[[params.social]]
+  url = "https://www.linkedin.com/in/theo-barber-bany/"
+  fa_icon = "fab fa-linkedin-in"
+
+[[params.social]]
+  url = "https://twitter.com/theobarberbany/"
+  fa_icon = "fab fa-twitter"
